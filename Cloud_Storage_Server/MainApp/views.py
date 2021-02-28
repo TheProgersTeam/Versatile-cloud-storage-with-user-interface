@@ -118,7 +118,7 @@ class LoginView(APIView):
         else:
             return Response({"status": "ERR"})
 
-''' Registration я '''
+''' Registration '''
 def RegPage(request):
     form = CreateUserForm()
     if request.method == 'POST':
