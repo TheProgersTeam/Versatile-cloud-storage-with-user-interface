@@ -22,5 +22,3 @@ The project is designed for remote storage of files and access to them from anyw
 3) then, in the console go to the "Cloud_Storage_Server" folder
 4) write the command "python manage.py runserver"
 5) then, in the "Cloud_Storage_App" folder, run the file "main.py"
-
-Made with ❤️ by TheProgersTeam
