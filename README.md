@@ -1,8 +1,14 @@
 # Versatile cloud storage with-user interface
-About the project 👾  
 
 ## What is it?
 The project is designed for remote storage of files and access to them from anywhere in the world. 🌐  
+
+## Images
+### Sing In 
+![...](Screenshots/Sign%20in%20page.jpg)
+### Main page
+![...](Screenshots/Main%20app%20page%20without%20files.jpg)
+![...](Screenshots/Main%20app%20page.jpg)
 
 ## What used?
 * Python 3.7+
